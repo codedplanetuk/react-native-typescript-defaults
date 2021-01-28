@@ -1,10 +1,13 @@
-# :star: React Native Typscript with Sensible Defaults
+# :star: React Native Typscript with extra Defaults
 
-Sensible defaults are:
+Extra defaults are:
 
 - Folder structure like React Native Boilerplate
 - Axios for network calls
 - State with simple useReducer
+- TODO: Design-system
+- TODO: Detox
+- TODO: Fastlane
 
 ## Usage
 
