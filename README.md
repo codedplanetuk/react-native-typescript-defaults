@@ -12,7 +12,7 @@ Extra defaults are:
 ## Usage
 
 ```sh
-npx react-native init MyApp --template @codedplanetuk/react-native-typescript-defaults
+npx react-native init MyApp --template https://github.com/codedplanetuk/react-native-typescript-defaults.git
 ```
 
 See the below table to find out which version of the template to use.
