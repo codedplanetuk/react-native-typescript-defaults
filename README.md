@@ -5,7 +5,7 @@ Extra defaults are:
 - Folder structure like React Native Boilerplate
 - Axios for network calls
 - State with simple useReducer
-- TODO: Design-system
+- TODO: Icons
 - TODO: Detox
 - TODO: Fastlane
 
@@ -13,6 +13,20 @@ Extra defaults are:
 
 ```sh
 npx react-native init MyApp --template https://github.com/codedplanetuk/react-native-typescript-defaults.git
+```
+
+```sh
+cd MyApp
+```
+
+```sh
+# Terminal 1
+yarn start
+```
+
+```sh
+# Terminal 2 for iOS sim
+yarn ios
 ```
 
 See the below table to find out which version of the template to use.
