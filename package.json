@@ -1,0 +1,29 @@
+{
+  "name": "react-native-typescript-defaults",
+  "version": "0.3.0",
+  "description": "RN TypeScript with defaults.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codedplanetuk/react-native-typescript-defaults.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Shaun Farrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codedplanetuk/react-native-typescript-defaults/issues"
+  },
+  "homepage": "https://github.com/codedplanetuk/react-native-typescript-defaults#readme"
+}
